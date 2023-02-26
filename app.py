@@ -19,7 +19,7 @@ JOBS = [{
   'salary': 'Rs. 12,00,000'
 }, {
   'id': 4,
-  'title': 'Backend Scientise',
+  'title': 'Backend Scientist',
   'location': 'Pune, India',
   'salary': '$ 120,000'
 }]
